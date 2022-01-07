@@ -7,7 +7,7 @@ layout: default
 ![Profile](./assets/img/profile.png)
 
 **Yongjae Lee (이용재)**\
-Research Intern\
+Research Assistant\
 [Webizing Research Laboratory (WRL)](https://wrl.kist.re.kr/)\
 [Center for Artificial Intelligence](https://cai.kist.re.kr/)\
 [Korea Institute of Science and Technology (KIST)](https://eng.kist.re.kr/kist_eng/main/)\
@@ -27,7 +27,7 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 * * *
 <dl>
   <dt>Vision & Robotics</dt>
-  <dd>3D Reconstruction, Localization and Mapping, Scene Understanding, Autonomous Robot, Multi-robot Collaboration</dd>
+  <dd>3D Reconstruction, Localization and Mapping, Scene Understanding, Autonomous Robot, (Heterogeneous) Multi-robot Collaboration</dd>
 
   <dt>Graphics & Interface</dt>
   <dd>Virtual Reality (AR) / Augmented Reality (VR), Extended Reality (XR), Human Computer Interface</dd>
@@ -40,10 +40,10 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 
 - [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), March 2019 - August 2021
   - Master of Science in Mechanical Engineering
-    - Thesis: _Web-based Remote XR Collaboration Using Real-time Digital Twinning of Workspace_ (Advisor: Prof. [Soo-Hong Lee](https://kbd.yonsei.ac.kr/members/faculty) & Dr. [Byounghyun Yoo](https://www.byoo.net/)), 2021 [Yonsei University Library](https://dcollection.yonsei.ac.kr/public_resource/pdf/000000538823_20211217194008.pdf)
+    - Thesis: _Web-based Remote XR Collaboration Using Real-time Digital Twinning of Workspace_ (Advisor: Prof. [Soo-Hong Lee](https://kbd.yonsei.ac.kr/members/faculty) & Dr. [Byounghyun Yoo](https://www.byoo.net/)), 2021 [[Yonsei University Library](https://dcollection.yonsei.ac.kr/public_resource/pdf/000000538823_20211217194008.pdf)]
 - [Seoul National University of Science and Technology (SeoulTech)](https://en.seoultech.ac.kr/), March 2011 – February 2018
   - Bachelor of Science in Computer Science and Engineering
-    - Uerego
+    - Capstone Project: UrEgo (a rogue-like 2D top-down view mobile game) [[github](https://github.com/nfyfamr/UrEgo)]
 
 
 
@@ -54,18 +54,18 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 ### Journal Paper
 <!-- [bib] [pdf] [doi] [arXiv] -->
 *   Yongjae Lee and Byounghyun Yoo, **XR Collaboration beyond Virtual Reality: Work in the Real World**, Journal of Computational Design and Engineering, 8(2), 756–772, 2021.  
-    [[bib](./assets/bib/qwab012.bib)] [[pdf](https://watermark.silverchair.com/qwab012.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsEwggK9BgkqhkiG9w0BBwagggKuMIICqgIBADCCAqMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMDyRo7r3X25FXIqZvAgEQgIICdNRt4x-YYPJehUFJDJAwR8724SIlpp8aXz0q2XofXKSj8Xre86A06vKH4XWc_0hZGKGV62cyGSrv6FbIxGeyQhbllfYE0vLEuIFHM3hd3-xRFDkmrlvZnIRYKsaavS0NlE0jafzUs98ie0ZqmYlGC4Ps8vtX2Q3xdEKaPe_tdWVLjxK1E28_05y0IycqijLTC639z8LKxmWq6xUBZpY9B2-24p-Eoz8AH2iTOXhVPZ5ytfJloNyZ4hJzo7sIGLl0ZtcnYlkwUvueBoz18-tJpG7PUM6sdklltyInGlnyR19rSh82v72dhvKPKjiK350Q3Aa34PfZ0TcxC8Ll6ASnG1oJNPIeZECiqrmleF0JayjOBArBw0I_i8K6zTBnq9rithhvGur49Wu4UCKhFfhDt7cUiSQFuWg3FINph3_13KUVxYXW2xxHvmORXeCkNzZ5iwfrcZmy9s_27-MvwufoGBIAd4ysODkKkik2n6wyRU_JD73WdtEJURcXHcnxH18rPhxADkFOt-3sPjSNCUAGCGzQYekD4IbI45v0muhAAsi-zNMXKuYnMCU9xbG80jgHif0HrTJnBOwkvwE1CdaicdqpOs68awwU_oT_iDhyjPbbCHifu8m4Xym74S8EhHary14MGZ32vlZBEXa3tuodGH7gUzlRfFAunKsQhrKpxnLq9zHjtSf8Ah6NGGnQKjE5OpW2qzHncz7coGRummn33r2F7d5qCZZenzrkr5KhU77yZx3Fsar22mLIe8hQY-IRFPkur6WQ3DQyT9bBTWtbNANdtYYtkB5-VyF97eFDXwKIAamBedHLU_zLpS7uGHVfVph90XI)] [[doi](https://doi.org/10.1093/jcde/qwab012)]
+    [[bib](./assets/bib/qwab012.bib)] [[pdf](./assets/paper/XR_collaboration_beyond_virtual_reality.pdf)] [[doi](https://doi.org/10.1093/jcde/qwab012)]
 
 ### Conference Paper (peer reviewed)
 
 *   Yongjae Lee, Byounghyun Yoo, and Soo-Hong Lee, **Sharing Ambient Objects Using Real-time Point Cloud Streaming in Web-based XR Remote Collaboration**, The 26th International Conference on 3D Web Technology (Web3D ’21), November 8–12, 2021, Pisa, Italy.  
-    [[bib](./assets/bib/acm_3485444.3487642.bib)] [[pdf](https://dl.acm.org/doi/pdf/10.1145/3485444.3487642)] [[doi](https://doi.org/10.1145/3485444.3487642)]
+    [[bib](./assets/bib/acm_3485444.3487642.bib)] [[pdf](./assets/paper/sharing_ambient_objects.pdf)] [[doi](https://doi.org/10.1145/3485444.3487642)] [[youtube](https://youtu.be/1yhrwd10MQA)]
 
 *   Yongjae Lee, Changhyun Moon, Heedong Ko, Soo-Hong Lee, and Byounghyun Yoo, **Unified Representation for XR Content and Its Rendering Method**, The 25th International Conference on 3D Web Technology (Web3D ’20), November 9–13, 2020, Seoul, Korea.  
-    [[bib](./assets/bib/acm_3424616.3424695.bib)] [[pdf](https://dl.acm.org/doi/pdf/10.1145/3424616.3424695)] [[doi](https://doi.org/10.1145/3424616.3424695)]
+    [[bib](./assets/bib/acm_3424616.3424695.bib)] [[pdf](./assets/paper/unified_representation.pdf)] [[doi](https://doi.org/10.1145/3424616.3424695)] [[youtube](https://youtu.be/pIfZnJZqDFo)]
 
 *   Daeil Seo, Yongjae Lee, and Byounghyun Yoo, **Webizing Interactive CAD Review System Using Super Multiview Autostereoscopic Displays**, HCI International 2017 – Posters’ Extended Abstracts (pp. 62–67). Springer International Publishing, 2017.  
-    [[bib](./assets/bib/10.1007_978-3-319-58753-0_10-citation.bib)] [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-58753-0_10.pdf)] [[doi](https://doi.org/10.1007/978-3-319-58753-0_10)]
+    [[bib](./assets/bib/10.1007_978-3-319-58753-0_10-citation.bib)] [[pdf](./assets/paper/webizing_interactive_CAD_review_system.pdf)] [[doi](https://doi.org/10.1007/978-3-319-58753-0_10)]
 
 
 ### Presentation [Pr] & Poster [Po] & Tutorial [Tu]
@@ -105,12 +105,14 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
       <b>Autonomous driving project</b>
       <ul>
         <li>August 2021 - September 2021</li>
-        <li>Team project of the Autonomous Driving course in Grepp, Inc.</li>
+        <li>Team project in the Autonomous Driving course in Grepp, Inc.</li>
         <li>Developed an autonomous driving system for a remote control car</li>
         <li>Main contribution: SLAM tuning, image recognition, 3D visualization</li>
         <li>Funded by the Ministry of Employment and Labor (MOEL)</li>
       </ul>
-      Tag: Self-driving, SLAM, Computer Vision
+      Tag: Self-driving, SLAM, Computer Vision <br>
+      <a href="https://github.com/nfyfamr/xytron-final-project">[github]</a>
+      <a href="https://www.youtube.com/watch?v=8LzUUPVyS1I&t=2090s">[youtube]</a>
     </td>
   </tr>
   <tr>
@@ -124,7 +126,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>Developed a collaboration system that shares the information of an AR user’s physical environment using LiDAR in real time</li>
         <li>Advisor: Prof. Soo-Hong Lee and Dr. Byounghyun Yoo</li>
       </ul>
-      Tag: XR Collaboration, Real-time 3D Scanning & Streaming
+      Tag: XR Collaboration, Real-time 3D Scanning & Streaming <br>
+      <a href="https://youtu.be/usdNrlUuNc8">[youtube]</a>
     </td>
   </tr>
   <tr>
@@ -151,7 +154,10 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>Project inspector: Dr. Byounghyun Yoo</li>
         <li>Funded by the National Research Council of Science and Technology (NST)</li>
       </ul>
-      Tag: XR Collaboration, Web-based XR
+      Tag: XR Collaboration, Web-based XR <br>
+      <a href="https://wrl.kist.re.kr/35066bb0-10e6-46d9-9873-225d43d79527">[project]</a>
+      <a href="https://youtu.be/3A6jsKpkoYc">[youtube 1]</a>
+      <a href="https://youtu.be/Mk7Ukg8SvKw">[youtube 2]</a>
     </td>
   </tr>
   <tr>
@@ -163,7 +169,9 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>Seoul National University of Science and Technology</li>
         <li>Developed a rogue-like 2D top-down view mobile game</li>
       </ul>
-      Tag: Mobile Game, Unity5
+      Tag: Mobile Game, Unity5 <br>
+      <a href="https://github.com/nfyfamr/UrEgo">[github]</a>
+      <a href="https://youtu.be/RxZdg_eTrm0">[youtube]</a>
     </td>
   </tr>
   <tr>
@@ -203,7 +211,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>Project inspector: Dr. Byounghyun Yoo</li>
         <li>Funded by the Ministry of Science, ICT and Future Planning (MSIP)</li>
       </ul>
-      Tag: Webizing, RGBD Streaming, SMV Display
+      Tag: Webizing, RGBD Streaming, SMV Display <br>
+      <a href="https://youtu.be/OSt0SvfIjGE">[youtube]</a>
     </td>
   </tr>
   <tr>
