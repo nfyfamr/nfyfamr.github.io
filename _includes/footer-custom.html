@@ -1,0 +1,19 @@
+
+<!-- start custom footer snippets -->
+<button id='scroll-to-top' onclick="scroll2Top()">TOP</button>
+<script>
+  let scrollBtn = document.querySelector('#scroll-to-top');
+  window.onscroll = function() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      scrollBtn.style.display = "block";
+    } else {
+      scrollBtn.style.display = "none";
+    }
+  };
+
+  function scroll2Top() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+</script>
+<!-- end custom footer snippets -->

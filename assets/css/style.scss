@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+html {
+  scroll-behavior: smooth;
+}
+
+#scroll-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 40px;
+  background: rgba(21, 153, 87, .5);
+  width: 60px;
+  height: 60px;
+  display: block;
+  color: white;
+  text-decoration: none;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  border-style: none;
+}
+
+#scroll-to-top:hover {
+  background-color: rgba(21, 153, 87, 1.0);
+}
