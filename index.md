@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Yongjae Lee
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 ![Profile](./assets/img/profile.png)
 
 **Yongjae Lee (이용재)**\
@@ -43,7 +42,7 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
     - Thesis: _Web-based Remote XR Collaboration Using Real-time Digital Twinning of Workspace_ (Advisor: Prof. [Soo-Hong Lee](https://kbd.yonsei.ac.kr/members/faculty) & Dr. [Byounghyun Yoo](https://www.byoo.net/)), 2021 [[Yonsei University Library](https://dcollection.yonsei.ac.kr/public_resource/pdf/000000538823_20211217194008.pdf)]
 - [Seoul National University of Science and Technology (SeoulTech)](https://en.seoultech.ac.kr/), March 2011 – February 2018
   - Bachelor of Science in Computer Science and Engineering
-    - Capstone Project: UrEgo (a rogue-like 2D top-down view mobile game) [[github](https://github.com/nfyfamr/UrEgo)]
+    - Capstone Project: UrEgo (a rogue-like 2D top-down view mobile game) [[code](https://github.com/nfyfamr/UrEgo)]
 
 
 
@@ -54,18 +53,18 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 ### Journal Paper
 <!-- [bib] [pdf] [doi] [arXiv] -->
 *   Yongjae Lee and Byounghyun Yoo, **XR Collaboration beyond Virtual Reality: Work in the Real World**, Journal of Computational Design and Engineering, 8(2), 756–772, 2021.  
-    [[bib](./assets/bib/qwab012.bib)] [[pdf](./assets/paper/XR_collaboration_beyond_virtual_reality.pdf)] [[doi](https://doi.org/10.1093/jcde/qwab012)]
+    [[bib](./assets/bib/qwab012.bib)] [[pdf](./assets/pdf/XR_collaboration_beyond_virtual_reality.pdf)] [[doi](https://doi.org/10.1093/jcde/qwab012)]
 
 ### Conference Paper (peer reviewed)
 
 *   Yongjae Lee, Byounghyun Yoo, and Soo-Hong Lee, **Sharing Ambient Objects Using Real-time Point Cloud Streaming in Web-based XR Remote Collaboration**, The 26th International Conference on 3D Web Technology (Web3D ’21), November 8–12, 2021, Pisa, Italy.  
-    [[bib](./assets/bib/acm_3485444.3487642.bib)] [[pdf](./assets/paper/sharing_ambient_objects.pdf)] [[doi](https://doi.org/10.1145/3485444.3487642)] [[youtube](https://youtu.be/1yhrwd10MQA)]
+    [[bib](./assets/bib/acm_3485444.3487642.bib)] [[pdf](./assets/pdf/sharing_ambient_objects.pdf)] [[doi](https://doi.org/10.1145/3485444.3487642)] [[video](https://youtu.be/1yhrwd10MQA)]
 
 *   Yongjae Lee, Changhyun Moon, Heedong Ko, Soo-Hong Lee, and Byounghyun Yoo, **Unified Representation for XR Content and Its Rendering Method**, The 25th International Conference on 3D Web Technology (Web3D ’20), November 9–13, 2020, Seoul, Korea.  
-    [[bib](./assets/bib/acm_3424616.3424695.bib)] [[pdf](./assets/paper/unified_representation.pdf)] [[doi](https://doi.org/10.1145/3424616.3424695)] [[youtube](https://youtu.be/pIfZnJZqDFo)]
+    [[bib](./assets/bib/acm_3424616.3424695.bib)] [[pdf](./assets/pdf/unified_representation.pdf)] [[doi](https://doi.org/10.1145/3424616.3424695)] [[video](https://youtu.be/pIfZnJZqDFo)]
 
 *   Daeil Seo, Yongjae Lee, and Byounghyun Yoo, **Webizing Interactive CAD Review System Using Super Multiview Autostereoscopic Displays**, HCI International 2017 – Posters’ Extended Abstracts (pp. 62–67). Springer International Publishing, 2017.  
-    [[bib](./assets/bib/10.1007_978-3-319-58753-0_10-citation.bib)] [[pdf](./assets/paper/webizing_interactive_CAD_review_system.pdf)] [[doi](https://doi.org/10.1007/978-3-319-58753-0_10)]
+    [[bib](./assets/bib/10.1007_978-3-319-58753-0_10-citation.bib)] [[pdf](./assets/pdf/webizing_interactive_CAD_review_system.pdf)] [[doi](https://doi.org/10.1007/978-3-319-58753-0_10)]
 
 
 ### Presentation [Pr] & Poster [Po] & Tutorial [Tu]
@@ -111,8 +110,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>Funded by the Ministry of Employment and Labor (MOEL)</li>
       </ul>
       Tag: Self-driving, SLAM, Computer Vision <br>
-      <a href="https://github.com/nfyfamr/xytron-final-project">[github]</a>
-      <a href="https://www.youtube.com/watch?v=8LzUUPVyS1I&t=2090s">[youtube]</a>
+      <a href="https://github.com/nfyfamr/xytron-final-project">[code]</a>
+      <a href="https://www.youtube.com/watch?v=8LzUUPVyS1I&t=2090s">[video]</a>
     </td>
   </tr>
   <tr>
@@ -127,7 +126,7 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>Advisor: Prof. Soo-Hong Lee and Dr. Byounghyun Yoo</li>
       </ul>
       Tag: XR Collaboration, Real-time 3D Scanning & Streaming <br>
-      <a href="https://youtu.be/usdNrlUuNc8">[youtube]</a>
+      <a href="https://youtu.be/usdNrlUuNc8">[video]</a>
     </td>
   </tr>
   <tr>
@@ -140,7 +139,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>The final project of the Estimation Theory class</li>
         <li>Developed a human pose element estimator using 3D ConvNet and LSTM</li>
       </ul>
-      Tag: Deep Learning, 3D Recognition
+      Tag: Deep Learning, 3D Recognition <br>
+      <a href="./assets/pdf/estimation_theory_class_report.pdf">[class report]</a>
     </td>
   </tr>
   <tr>
@@ -156,8 +156,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
       </ul>
       Tag: XR Collaboration, Web-based XR <br>
       <a href="https://wrl.kist.re.kr/35066bb0-10e6-46d9-9873-225d43d79527">[project]</a>
-      <a href="https://youtu.be/3A6jsKpkoYc">[youtube 1]</a>
-      <a href="https://youtu.be/Mk7Ukg8SvKw">[youtube 2]</a>
+      <a href="https://youtu.be/3A6jsKpkoYc">[video1]</a>
+      <a href="https://youtu.be/Mk7Ukg8SvKw">[video2]</a>
     </td>
   </tr>
   <tr>
@@ -170,8 +170,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>Developed a rogue-like 2D top-down view mobile game</li>
       </ul>
       Tag: Mobile Game, Unity5 <br>
-      <a href="https://github.com/nfyfamr/UrEgo">[github]</a>
-      <a href="https://youtu.be/RxZdg_eTrm0">[youtube]</a>
+      <a href="https://github.com/nfyfamr/UrEgo">[code]</a>
+      <a href="https://youtu.be/RxZdg_eTrm0">[video]</a>
     </td>
   </tr>
   <tr>
@@ -197,7 +197,9 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>The final project of the Computer System Design class</li>
         <li>Designed a digital door lock circuit</li>
       </ul>
-      Tag: Digital Logic Design, Circuit Design
+      Tag: Digital Logic Design, Circuit Design <br>
+      <a href="https://github.com/nfyfamr/Digital-Door-Lock-Circuit-Design.git">[code]</a>
+      <a href="https://youtu.be/hygwYktAstk">[video]</a>
     </td>
   </tr>
   <tr>
@@ -212,7 +214,7 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>Funded by the Ministry of Science, ICT and Future Planning (MSIP)</li>
       </ul>
       Tag: Webizing, RGBD Streaming, SMV Display <br>
-      <a href="https://youtu.be/OSt0SvfIjGE">[youtube]</a>
+      <a href="https://youtu.be/OSt0SvfIjGE">[video]</a>
     </td>
   </tr>
   <tr>
@@ -223,7 +225,7 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>May 2017 - June 2017</li>
         <li>Seoul National University of Science and Technology</li>
         <li>The final project of the Intelligent System Software</li>
-        <li>Designed an agent model for testing journalist Mark S. Walton's rule of three theory, using NetLogo</li>
+        <li>Simulate the rule of three in the crowd psychology, using NetLogo</li>
       </ul>
       Tag: Agent-based Modeling, NetLogo
     </td>
@@ -238,7 +240,9 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>The final project of the Embedded Software</li>
         <li>Developed a morse code translator program for X-Hyper270A board and Cholesteric LCD (CLCD) display</li>
       </ul>
-      Tag: Embedded Software Programming, CLCD
+      Tag: Embedded Software Programming, CLCD <br>
+      <a href="https://github.com/nfyfamr/Embedded-Morse-Code-Translator">[code]</a>
+      <a href="https://youtu.be/ELX8GAhnbjE">[video]</a>
     </td>
   </tr>
   <tr>
@@ -252,7 +256,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>Project inspector: Dr. Byounghyun Yoo</li>
         <li>Funded by the Ministry of Science, ICT and Future Planning (MSIP)</li>
       </ul>
-      Tag: Webizing, VR Collaboration, Hand Tracking Interface, SMV Display
+      Tag: Webizing, VR Collaboration, Hand Tracking Interface, SMV Display <br>
+      <a href="https://youtu.be/ieRdG43swqE">[video]</a>
     </td>
   </tr>
   <tr>
@@ -326,44 +331,3 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
     </td>
   </tr>
 </table>
-
-
-
-
-<!--
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-``` -->
