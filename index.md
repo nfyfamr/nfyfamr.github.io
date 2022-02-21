@@ -52,6 +52,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 
 ### Journal Paper
 <!-- [bib] [pdf] [doi] [arXiv] -->
+*   (In progress) Yongjae Lee, Suyeong Kim, Yeongbeom Hwang and Byounghyun Yoo, **User Study on WXR**
+
 *   Yongjae Lee and Byounghyun Yoo, **XR Collaboration beyond Virtual Reality: Work in the Real World**, Journal of Computational Design and Engineering, 8(2), 756–772, 2021.  
     [[bib](./assets/bib/qwab012.bib)] [[pdf](./assets/pdf/XR_collaboration_beyond_virtual_reality.pdf)] [[doi](https://doi.org/10.1093/jcde/qwab012)]
 
@@ -68,7 +70,7 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 
 
 ### Presentation [Pr] & Poster [Po] & Tutorial [Tu]
-- [Po] (Scheduled) Yeongbeom Hwang, Suyeong Kim, Yongjae Lee, and Byounghyun Yoo, **A method for web-based remote XR collaboration with real-time 360 video and point cloud streaming**, Winter Conference of Society for Computational Design and Engineering, February 9-12, 2022, Jeju
+- [Po] Yeongbeom Hwang, Suyeong Kim, Yongjae Lee, and Byounghyun Yoo, **A method for web-based remote XR collaboration with real-time 360 video and point cloud streaming**, Winter Conference of Society for Computational Design and Engineering, February 9-12, 2022, Jeju
 
 - [Tu] Byounghyun Yoo, Yongjae Lee, and Changhyun Moon, **WXR: Remote Cooperation using WebXR Technology**, The 25th International Conference on 3D Web Technology (Web3D ’20), November 9–13, 2020, Seoul, Korea
 
