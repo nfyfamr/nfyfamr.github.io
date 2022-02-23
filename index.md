@@ -106,9 +106,9 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
       <b>Autonomous driving project</b>
       <ul>
         <li>August 2021 - September 2021</li>
-        <li>Team project in the Autonomous Driving course in Grepp, Inc.</li>
+        <li>Team project in the Autonomous Driving Course in Grepp, Inc.</li>
         <li>Developed an autonomous driving system for a remote control car</li>
-        <li>Main contribution: SLAM tuning, image recognition, 3D visualization</li>
+        <li>Main contribution: SLAM (Cartographer) tuning, image recognition, 3D visualization</li>
         <li>Funded by the Ministry of Employment and Labor (MOEL)</li>
       </ul>
       Tag: Self-driving, SLAM, Computer Vision <br>
@@ -123,11 +123,12 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
       <ul>
         <li>December 2020 - July 2021</li>
         <li>Yonsei University, Seoul, Republic of Korea</li>
-        <li>The implementation for master’s thesis</li>
+        <li>An implementation for master’s thesis</li>
         <li>Developed a collaboration system that shares the information of an AR user’s physical environment using LiDAR in real time</li>
         <li>Advisor: Prof. Soo-Hong Lee and Dr. Byounghyun Yoo</li>
       </ul>
       Tag: XR Collaboration, Real-time 3D Scanning & Streaming <br>
+      <a href="https://github.com/wrlab/WXR-Platform-Server">[code]</a>
       <a href="https://youtu.be/usdNrlUuNc8">[video]</a>
     </td>
   </tr>
@@ -227,9 +228,10 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>May 2017 - June 2017</li>
         <li>Seoul National University of Science and Technology</li>
         <li>The final project of the Intelligent System Software</li>
-        <li>Simulate the rule of three in the crowd psychology, using NetLogo</li>
+        <li>Simulate 'the rule of three' theory in crowd psychology, using NetLogo</li>
       </ul>
-      Tag: Agent-based Modeling, NetLogo
+      Tag: Agent-based Modeling, NetLogo <br>
+      <a href="https://github.com/nfyfamr/rule-of-three-netlogo-simulation">[code]</a>
     </td>
   </tr>
   <tr>
@@ -286,7 +288,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>The final project of the Windows Programming class</li>
         <li>Developed a chatting-interface-based book management system, using Microsoft Foundation Classes (MFC)</li>
       </ul>
-      Tag: Windows Application Programming, MFC
+      Tag: Windows Application Programming, MFC <br>
+      <a href="https://github.com/nfyfamr/Chattibrary">[code]</a>
     </td>
   </tr>
   <tr>
@@ -314,7 +317,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>Role: system design, REST API design, server development, client UI </li>
         <li>Developed a cloud-based C++/Java development environment</li>
       </ul>
-      Tag: Web-based IDE
+      Tag: Web-based IDE <br>
+      <a href="https://github.com/nfyfamr/IDEEON">[code]</a>
     </td>
   </tr>
   <tr>
@@ -329,7 +333,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
         <li>Developed a calculator that draws a graph of the equation entered by the user, using Microsoft Foundation Classes
 (MFC)</li>
       </ul>
-      Tag: Windows Application Programming, MFC
+      Tag: Windows Application Programming, MFC <br>
+      <a href="https://github.com/nfyfamr/Graphing-Calculator">[code]</a>
     </td>
   </tr>
 </table>
