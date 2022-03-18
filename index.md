@@ -88,7 +88,7 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 ### Patents
 - (In progress) Yongjae Lee and Byounghyun Yoo, **Method and Apparatus for XR content generation using point cloud filtering through comparison with a 3D model**, Republic of Korea
 
-- Yongjae Lee and Byounghyun Yoo, **Method and Apparatus for entity tracking based on feature data independent of augmented reality engine**, Republic of Korea, 2021, Patent No. 10-2021-0009217
+- Yongjae Lee and Byounghyun Yoo, **Method and Apparatus for entity tracking based on feature data independent of augmented reality engine**, Republic of Korea, 2021, Patent No. 17/565,455
 
 - Yongjae Lee and Byounghyun Yoo, **Method and device for providing virtual content on virtual space based on common coordinate**, United States, 2021, Patent No. 17/607,402
 
