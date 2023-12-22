@@ -6,16 +6,15 @@ layout: default
 ![Profile](./assets/img/profile.png)
 
 **Yongjae Lee (이용재)**\
-Research Assistant\
-[Webizing Research Laboratory (WRL)](https://wrl.kist.re.kr/)\
-[Center for Artificial Intelligence](https://cai.kist.re.kr/)\
-[Korea Institute of Science and Technology (KIST)](https://eng.kist.re.kr/kist_eng/main/)\
-Republic of Korea
+Ph.D. student majoring in ECE\
+[Efficient, Secure and Intelligent Computing (ESIC) Laboratory](https://www.ece.jhu.edu/dfan/)\
+[Johns Hopkins University](https://www.jhu.edu/)\
+United States of America
 
 **Contact**\
-E-mail: [yongjae (dot) lee (at) wrl (dot) onl](mailto:yongjae.lee@wrl.onl)\
+E-mail: [ylee236 (at) jh (dot) edu](mailto:ylee236@jh.edu)\
 [nfyfamraa (at) gmail (dot) com](mailto:nfyfamraa@gmail.com)\
-Tel: +82-10-3488-2433\
+<!-- Tel: +82-10-3488-2433\ -->
 Homepage: [https://nfyfamr.github.io](https://nfyfamr.github.io)\
 Github: [https://github.com/nfyfamr](http://github.com/nfyfamr)\
 Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linkedin.com/in/yongjae-lee-nfyfamraa/)
@@ -26,7 +25,7 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 * * *
 <dl>
   <dt>Vision & Robotics</dt>
-  <dd>3D Reconstruction, Localization and Mapping, Scene Understanding, Autonomous Robot, (Heterogeneous) Multi-robot Collaboration</dd>
+  <dd>3D Reconstruction (NeRF), Localization and Mapping, Scene Understanding, Autonomous Robot, (Heterogeneous) Multi-robot Collaboration</dd>
 
   <dt>Graphics & Interface</dt>
   <dd>Virtual Reality (AR) / Augmented Reality (VR), Extended Reality (XR), Human Computer Interface</dd>
@@ -37,6 +36,11 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 ## Education
 * * *
 
+- [Johns Hopkins University](https://www.jhu.edu/), August 2023 - Present
+  - Doctor of Philosophy in Electrical and Computer Engineering
+    - [Efficient, Secure and Intelligent Computing (ESIC) Laboratory](https://www.ece.jhu.edu/dfan/)
+- [Arizona State University](https://www.asu.edu/) (attended), August 2022 - August 2023
+  - Doctor of Philosophy in Electrical Engineering
 - [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp), March 2019 - August 2021
   - Master of Science in Mechanical Engineering
     - Thesis: _Web-based Remote XR Collaboration Using Real-time Digital Twinning of Workspace_ (Advisor: Prof. [Soo-Hong Lee](https://kbd.yonsei.ac.kr/members/faculty) & Dr. [Byounghyun Yoo](https://www.byoo.net/)), 2021 [[Yonsei University Library](https://dcollection.yonsei.ac.kr/public_resource/pdf/000000538823_20211217194008.pdf)]
@@ -52,12 +56,18 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 
 ### Journal Paper
 <!-- [bib] [pdf] [doi] [arXiv] -->
-*   (In progress) Yongjae Lee, Suyeong Kim, Yeongbeom Hwang and Byounghyun Yoo, **User Study on WXR**
+*   (Under review) Eunhee Chang, Yongjae Lee, and Byounghyun Yoo, **Efficient VR-AR Communication Method using Virtual Replicas in XR Remote Collaboration**
 
-*   Yongjae Lee and Byounghyun Yoo, **XR Collaboration beyond Virtual Reality: Work in the Real World**, Journal of Computational Design and Engineering, 8(2), 756–772, 2021.  
+*   Eunhee Chang, Yongjae Lee, and Byounghyun Yoo, **A User Study on the Comparison of View Interfaces for VR-AR Communication in XR Remote Collaboration**, International Journal of Human–Computer Interaction (IJHCI), 2023.  
+    [[bib](./assets/bib/tandf_hihc20AxA.bib)] [[pdf](./assets/pdf/A User Study on the Comparison of View Interfaces for VR-AR Communication in XR Remote Collaboration.pdf)] [[doi](https://doi.org/10.1080/10447318.2023.2241294)]
+
+*   Yongjae Lee and Byounghyun Yoo, **XR Collaboration beyond Virtual Reality: Work in the Real World**, Journal of Computational Design and Engineering (JCDE), 8(2), 756–772, 2021.  
     [[bib](./assets/bib/qwab012.bib)] [[pdf](./assets/pdf/XR_collaboration_beyond_virtual_reality.pdf)] [[doi](https://doi.org/10.1093/jcde/qwab012)]
 
 ### Conference Paper (peer reviewed)
+
+*   Yongjae Lee, Li Yang, and Deliang Fan, **MF-NeRF: Memory Efficient NeRF with Mixed-Feature Hash Table**, arXiv, 2023  
+    [[arXiv](https://arxiv.org/abs/2304.12587)]
 
 *   Yongjae Lee, Byounghyun Yoo, and Soo-Hong Lee, **Sharing Ambient Objects Using Real-time Point Cloud Streaming in Web-based XR Remote Collaboration**, The 26th International Conference on 3D Web Technology (Web3D ’21), November 8–12, 2021, Pisa, Italy.  
     [[bib](./assets/bib/acm_3485444.3487642.bib)] [[pdf](./assets/pdf/sharing_ambient_objects.pdf)] [[doi](https://doi.org/10.1145/3485444.3487642)] [[video](https://youtu.be/1yhrwd10MQA)]
@@ -70,6 +80,8 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 
 
 ### Presentation [Pr] & Poster [Po] & Tutorial [Tu]
+- [Po] Eunhee Chang, Yongjae Lee, and Byounghyun Yoo, **Comparing Context-sharing Interfaces in XR Remote Collaboration**, 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops, March 25-29, 2023, Shanghai
+
 - [Po] Yeongbeom Hwang, Suyeong Kim, Yongjae Lee, and Byounghyun Yoo, **A method for web-based remote XR collaboration with real-time 360 video and point cloud streaming**, Winter Conference of Society for Computational Design and Engineering, February 9-12, 2022, Jeju
 
 - [Tu] Byounghyun Yoo, Yongjae Lee, and Changhyun Moon, **WXR: Remote Cooperation using WebXR Technology**, The 25th International Conference on 3D Web Technology (Web3D ’20), November 9–13, 2020, Seoul, Korea
@@ -100,6 +112,19 @@ Linkedin: [https://www.linkedin.com/in/yongjae-lee-nfyfamraa/](https://www.linke
 * * *
 
 <table>
+  <tr>
+    <td width="30%"><img src="./assets/img/mfnerf_arch.png"></td>
+    <td>
+      <b>Memory efficient NeRF</b>
+      <ul>
+        <li>August 2022 - March 2023</li>
+        <li>Arizona State University</li>
+        <li>Developed a mixed-feature sharing method among hierarchical grids for synthesizing novel views</li>
+      </ul>
+      Tag: NeRF, 3D Reconstruction Computer Vision <br>
+      <a href="https://github.com/nfyfamr/MF-NeRF">[code]</a>
+    </td>
+  </tr>
   <tr>
     <td width="30%"><img src="https://github.com/nfyfamr/xytron-final-project/blob/main/resource/demo.gif?raw=true"></td>
     <td>
